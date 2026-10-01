@@ -18,7 +18,7 @@ with an emphasis on clear evidence, explicit permissions, and human control.
 
 I am a Technical Support Specialist growing into **Cloud, Security, and AI Engineering**. My work explores how humans and AI agents can collaborate safely in real products—not only generate answers.
 
-My current focus is **Sparkbase** and its open-source foundation, **SparkKit**: infrastructure for multiplayer AI applications where every agent action is governed by explicit permissions, approval boundaries, and audit trails.
+My current focus is **SparkKit** and its open-source foundation, **SparkKit**: infrastructure for multiplayer AI applications where every agent action is governed by explicit permissions, approval boundaries, and audit trails.
 
 ```text
 tickets.read       ALLOW
@@ -58,11 +58,13 @@ An identity-visualization concept for Microsoft Entra ID that maps access paths 
 
 ## Engineering interests
 
-- Human–AI collaboration and permission-aware agents
-- Cloud architecture, identity, and security engineering
-- Evidence-grounded AI and auditable automation
-- Open-source developer tooling and portable application foundations
-- TypeScript, Python, Next.js, PostgreSQL, Docker, AWS, and Azure
+Human–AI collaboration and secure agentic systems
+Agent identity, authorization, approvals, and auditability
+Cloud architecture, security engineering, and platform design
+Evidence-grounded AI and trustworthy automation
+Open-source developer tools and AI-native application foundations
+TypeScript, Python, Next.js, PostgreSQL, Docker, AWS, and Azure
+
 
 ## Principles
 
