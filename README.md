@@ -16,9 +16,11 @@ with an emphasis on clear evidence, explicit permissions, and human control.
 
 ## What I am building
 
-I am a Technical Support Specialist growing into Cloud, Security, and AI Engineering. My work explores how humans and AI agents can collaborate safely in real products, not only generate answers.
+Building at the intersection of AI, Security, and Software Engineering.
 
-My current focus is SparkKit, an open-source foundation for software built with AI coding agents and designed for humans and agents to work together. My interests include agent authorization, approval-driven automation, application contracts, verification systems, tenant-safe software architecture, and auditable AI workflows.
+Interested in AI Safety, AI Security, Harness Engineering, Software Factories, agent governance, application contracts, and verification systems. Exploring how humans and AI agents can collaborate to build secure, auditable, and reliable software.
+
+Open-source contributor focused on trustworthy AI-native development workflows and next-generation engineering platforms. `
 
 ```text
 tickets.read       ALLOW
