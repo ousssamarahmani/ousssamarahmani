@@ -20,7 +20,8 @@ Building at the intersection of AI, Security, and Software Engineering.
 
 Interested in AI Safety, AI Security, Harness Engineering, Software Factories, agent governance, application contracts, and verification systems. Exploring how humans and AI agents can collaborate to build secure, auditable, and reliable software.
 
-Open-source contributor focused on trustworthy AI-native development workflows and next-generation engineering platforms. `
+Open-source contributor focused on trustworthy AI-native development workflows and next-generation engineering platforms. 
+currently, I am exploring projects such as SparkKit and other open-source initiatives that advance human-AI collaboration, secure automation, software supply chain integrity, and next-generation engineering platforms for AI-built software.
 
 ```text
 tickets.read       ALLOW
